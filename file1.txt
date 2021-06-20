@@ -1,3 +1,6 @@
 Hello Brother 
 RjCool
 Coding Ninjas
+Web Development with coding ninjas 
+Data Science
+Machine Learning
