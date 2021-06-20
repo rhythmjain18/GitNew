@@ -1,1 +1,3 @@
-Hello Brother 
+Web Development with coding ninjas 
+Data Science
+Machine Learning
